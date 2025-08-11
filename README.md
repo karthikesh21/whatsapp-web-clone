@@ -75,7 +75,7 @@ WhatsApp Web Clone/
    cd backend
    npm start
    ```
-   The backend server will start on `http://localhost:3000`
+   The backend server will start on `http://localhost:5000`
 
 2. **Start the Frontend Development Server**
    ```bash
