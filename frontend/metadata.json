@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Web Clone",
+  "description": "A responsive frontend application that mimics the WhatsApp Web interface, displaying conversations and messages with real-time-like functionality for a developer evaluation task.",
+  "requestFramePermissions": []
+}
